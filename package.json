@@ -1,0 +1,30 @@
+{
+  "name": "bear-lang",
+  "version": "1.0.0",
+  "description": "Cyber-themed encrypted language for ultimate JS obfuscation and fun!",
+  "main": "index.js",
+  "bin": {
+    "bear": "./cli.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "run": "node cli.js run",
+    "dev": "nodemon cli.js"
+  },
+  "keywords": [
+    "bear",
+    "encrypted",
+    "language",
+    "cyber",
+    "scripting",
+    "obfuscation",
+    "fun"
+  ],
+  "author": "Xylays [bocil dari palembang]",
+  "license": "MIT",
+  "type": "bear",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "jq": "^1.7.2"
+  }
+}

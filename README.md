@@ -1,1 +1,0 @@
-# language-bare-company
